@@ -1,0 +1,3 @@
+module.exports.DarkSkyapikey = 'a9152e8fe64ae9916328f5602ea02709'
+
+module.exports.MapboxApikey = 'pk.eyJ1Ijoiam9yZ2VvbHZlcmFybXoiLCJhIjoiY2sxazVtMjNkMGo0NjNucW5reTl0cm5rdyJ9.kGlvN44ii9H7WAeSBzIPRQ'
